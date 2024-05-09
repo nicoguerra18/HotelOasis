@@ -6,7 +6,7 @@ Welcome to the Hotel Management Application for Hotel Oasis! This application is
 ## Technologies Used
 Built using JavaScript, React, Redux, Supabase. Deployed using Netlify and Vercel.
 
-Link to the Demo --> https://drive.google.com/file/d/1wDOiaiihGAFAuNymuHmnXNuq6WNnKysv/view?usp=sharing
+Link to the Demo --> https://drive.google.com/file/d/1wDOiaiihGAFAuNymuHmnXNuq6WNnKysv/view?usp=sharing <b>
 CHECK IT OUT HERE --> https://hotel-oasis.netlify.app/login
 
 Guest Username and Password:
