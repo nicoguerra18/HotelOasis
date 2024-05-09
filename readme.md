@@ -1,6 +1,9 @@
 # Hotel Oasis Full Stack Web Application
 
-### Technologies Used
+## Application Overview
+Welcome to the Hotel Management Application for Hotel Oasis! This application is designed specifically for hotel employees to efficiently manage cabin bookings, guest information, and overall hotel operations. Whether you're a front desk manager, reservationist, or housekeeping staff, this app is tailored to streamline your daily tasks and enhance guest experiences. I developed this application while taking a react course (linked below).
+
+## Technologies Used
 Built using JavaScript, React, Redux, Supabase. Deployed using Netlify and Vercel.
 
 CHECK IT OUT HERE --> https://hotel-oasis.netlify.app/login
@@ -9,26 +12,28 @@ Guest Username and Password:
 tester@example.com
 tester
 
+## Features
 
-Details About the application:
+### User Profile Management
+- Upload an avatar, change password, and update personal information such as name.
+### Dark Mode
+- Enjoy a visually comfortable experience with the dark mode feature.
+### Cabin Management
+- View a table with all cabins, including cabin photo, name, capacity, price, and current discount.
+- Update or delete existing cabins, and create new cabins with the option to upload a photo.
+### Booking Management
+- Access a table with all bookings, displaying arrival time, departure dates, status, and paid amount, along with cabin and guest data.
+- Filter bookings by status: "unconfirmed", "checked-in", or "checked-out".
+- Perform actions such as deleting, checking in, or checking out bookings as guests arrive.
+- Accept payments for unpaid bookings upon check-in and confirm payment receipt within the app.
+- Allow guests to add breakfast for their entire stay during check-in if not already booked.
+### Guest Information
+- Store guest data including full name, email, national ID, nationality, and country flag.
+### Dashboard
+- Get a snapshot of important information for the last 7, 30, or 90 days.
+- List of guests checking in and out on the current day.
+- Statistics on recent bookings, sales, check-ins, and occupancy rate.
+- Charts displaying daily hotel sales (total and extra, e.g., breakfast-only sales) and stay durations.
+### Application Settings
+- Define application-wide settings such as breakfast price, minimum and maximum nights per booking, and maximum guests per booking.
 
-- User of the App are Hotel Employees. They need to be logged into the application to perform tasks.
-- New users can only be signed up inside the application, in order to guarantee that only actual hotel employees can get into accounts
-- User are able to upload an avatar, change their password, and name.
-- App has a dark mode.
-
-- App has a table view with all the cabins, showing the cabin photo, name, capacity, price, and current discount.
-- Users should be able to update or delete a cabin, and create new cabins (and upload a photo)
-- App has a table with all the bookings, showing arrival time, departure dates, status, and paid amount, as well as cabin and guest data
-- The booking status can be “unconfirmed” (booked but not check in yet), “checked-in”, or “checked-out”. The table is filterable by this status.
-- Other booking data include: number of guests, number of nights, guest observations, whether they booked breakfast, and breakfast price
-- Users are able to delete, checkin, or checkout a bookings the guest arrives
-- Bookings may not have been paid yet on guest arrival, therefore on check in, users are able to accept payment (outside the app) and confirm that the payment has been received (inside the app)
-- On check in the guest have the ability to add breakfast for the entire stay, if they haven’t already
-- Guest data contains: Full name, email, nationalID, nationality, and country flag
-- The initial app screen has a dashboard to display important information for the last 7, 30, or 90 days.
-  - A list of guests checking in and out on the current day.
-  - Statistics on recent bookings, sales, check-ins, and occupancy rate
-  - A chart showing all daily hotel sales, showing both “total” sales and “extra” sales (only breakfast at the moment)
-  - A chart showing statistics on stay durations, as this is an important metric for the hotel
-- Users are able to define a few application wide settings: breakfast price, min and max nights/booking, max guests/booking.
