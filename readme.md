@@ -1,13 +1,13 @@
-## Hotel Oasis Full Stack Web Application
-- Written using JavaScript, React, Redux, and Supabase.
-- Deployed using Netlify and Vercel
+# Hotel Oasis Full Stack Web Application
+
+### Technologies Used
+Built using JavaScript, React, Redux, Supabase. Deployed using Netlify and Vercel.
 
 CHECK IT OUT HERE --> https://hotel-oasis.netlify.app/login
 
 Guest Username and Password:
 tester@example.com
 tester
-
 
 
 Details About the application:
