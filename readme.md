@@ -1,10 +1,7 @@
 # Hotel Oasis Full Stack Web Application
 
 ## Application Overview (DEMO Below)
-Welcome to the Hotel Management Application for Hotel Oasis! This application is designed specifically for hotel employees to efficiently manage cabin bookings, guest information, and overall hotel operations. Whether you're a front desk manager, reservationist, or housekeeping staff, this app is tailored to streamline your daily tasks and enhance guest experiences. I developed this application while taking a react course (linked below).
-
-## Technologies Used
-Built using JavaScript, React, Redux, Supabase. Deployed using Netlify and Vercel. <br>
+Welcome to the Hotel Management Application for Hotel Oasis! This application is designed specifically for hotel employees to efficiently manage cabin bookings, guest information, and overall hotel operations. Whether you're a front desk manager, reservationist, or housekeeping staff, this app is tailored to streamline your daily tasks and enhance guest experiences. I developed this application while taking a react course (linked below). <br>
 
 Link to the Demo --> https://drive.google.com/file/d/1wDOiaiihGAFAuNymuHmnXNuq6WNnKysv/view?usp=sharing <br>
 CHECK IT OUT HERE --> https://hotel-oasis.netlify.app/login <br>
@@ -12,6 +9,9 @@ CHECK IT OUT HERE --> https://hotel-oasis.netlify.app/login <br>
 Guest Username and Password: <br> 
 tester@example.com <br>
 tester <br>
+
+## Technologies Used
+Built using JavaScript, React, Redux, Supabase. Deployed using Netlify and Vercel. <br>
 
 ## Features
 
